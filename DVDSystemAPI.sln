@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVDSystemAPI", "DVDSystemAPI.csproj", "{106EA0A3-4560-44BC-ADFD-D23141F53CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{106EA0A3-4560-44BC-ADFD-D23141F53CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106EA0A3-4560-44BC-ADFD-D23141F53CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106EA0A3-4560-44BC-ADFD-D23141F53CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106EA0A3-4560-44BC-ADFD-D23141F53CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFD17DA3-222C-4943-80A5-0F010C3BD29A}
+	EndGlobalSection
+EndGlobal
